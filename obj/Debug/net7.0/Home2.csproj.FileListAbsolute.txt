@@ -1,0 +1,14 @@
+C:\EDUCATION\C#\Seminars\Homeworks\Home2\obj\Debug\net7.0\Home2.GeneratedMSBuildEditorConfig.editorconfig
+C:\EDUCATION\C#\Seminars\Homeworks\Home2\obj\Debug\net7.0\Home2.AssemblyInfoInputs.cache
+C:\EDUCATION\C#\Seminars\Homeworks\Home2\obj\Debug\net7.0\Home2.AssemblyInfo.cs
+C:\EDUCATION\C#\Seminars\Homeworks\Home2\obj\Debug\net7.0\Home2.csproj.CoreCompileInputs.cache
+C:\EDUCATION\C#\Seminars\Homeworks\Home2\bin\Debug\net7.0\Home2.exe
+C:\EDUCATION\C#\Seminars\Homeworks\Home2\bin\Debug\net7.0\Home2.deps.json
+C:\EDUCATION\C#\Seminars\Homeworks\Home2\bin\Debug\net7.0\Home2.runtimeconfig.json
+C:\EDUCATION\C#\Seminars\Homeworks\Home2\bin\Debug\net7.0\Home2.dll
+C:\EDUCATION\C#\Seminars\Homeworks\Home2\bin\Debug\net7.0\Home2.pdb
+C:\EDUCATION\C#\Seminars\Homeworks\Home2\obj\Debug\net7.0\Home2.dll
+C:\EDUCATION\C#\Seminars\Homeworks\Home2\obj\Debug\net7.0\refint\Home2.dll
+C:\EDUCATION\C#\Seminars\Homeworks\Home2\obj\Debug\net7.0\Home2.pdb
+C:\EDUCATION\C#\Seminars\Homeworks\Home2\obj\Debug\net7.0\Home2.genruntimeconfig.cache
+C:\EDUCATION\C#\Seminars\Homeworks\Home2\obj\Debug\net7.0\ref\Home2.dll
